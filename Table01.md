@@ -1,4 +1,8 @@
-| # | Broken link (you can scroll this field left-right)                 | Link Text                       | Page where found                                                | Server response |
+
+
+
+
+| # | Broken link                  | Link Text                       | Page where found                                                | Server response |
 | :-: | :----------------------------------------------------------------- | :------------------------------ | :-------------------------------------------------------------- | :-------------- |
 | 1 | https://holoviews.org/user_guide/Styling_Plots.html      | Styling Plots         | https://holoviews.org/releases.html | 404   |
 | 2 | https://holoviews.org/Tutorials/Dynamic_Map.html         | DynamicMap Tutorial   | https://holoviews.org/releases.html | 404   |
